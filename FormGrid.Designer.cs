@@ -156,6 +156,7 @@
             this.Controls.Add(this.gridControl1);
             this.KeyPreview = true;
             this.Name = "FormGrid";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tabulka osob";
             this.Load += new System.EventHandler(this.FormGrid_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FormGrid_KeyDown);

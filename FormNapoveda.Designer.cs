@@ -86,6 +86,7 @@
             this.Controls.Add(this.labelInstrukce);
             this.KeyPreview = true;
             this.Name = "FormNapoveda";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Nápověda";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FormNapoveda_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.ImageBoxNovy)).EndInit();

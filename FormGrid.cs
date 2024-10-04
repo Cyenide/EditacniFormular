@@ -133,7 +133,7 @@ namespace EditacniFormular
         private void buttonNapoveda_Click(object sender, EventArgs e)
         {
             FormNapoveda formNapoveda = new FormNapoveda();
-            formNapoveda.Show();
+            formNapoveda.ShowDialog();
         }
 
         private void FormGrid_KeyDown(object sender, KeyEventArgs e)

@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="labelInstrukce.Text" xml:space="preserve">
-    <value>Aplikace slouží ke správě subjektů (osob) uložených v databází.
+    <value>Aplikace slouží ke správě subjektů (osob) uložených v databázi.
 
 Pro vytvoření nového záznamu osoby, stiskněte tlačítko "Nový" (F2). 
 Vyplněné údaje uložíte stiskem tlačítka "Uložit a zavřit". Nový záznam se zobrazí v tabulce.

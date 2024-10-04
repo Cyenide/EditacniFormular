@@ -232,6 +232,7 @@
             this.KeyPreview = true;
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "FormPridatEdit";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Přidání nebo editace";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.FormPridatEdit_KeyDown);
             this.tableLayoutPanel1.ResumeLayout(false);
